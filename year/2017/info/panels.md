@@ -87,7 +87,9 @@ Location: 101-ABC
 
 Jason Dykes (Organizer), City University of London  
 Miriah Meyer (Organizer), University of Utah  
-Heidi Lam, Uta Hinrichs, Tableau Research  
+Heidi Lam, Google
+Petra Isenberg, Inria
+Uta Hinrichs, Tableau Research  
 Nathalie Henry Riche, Microsoft Research  
 Remco Chang, Tufts University  
 Tamara Munzner, University of British Columbia
